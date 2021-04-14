@@ -1,1 +1,75 @@
-[]
+[
+{
+"attrs":
+{
+"ctime":
+"2021-04-14T08:05:33.191000+00:00",
+"mtime":
+"2021-04-13T23:27:53.288728-04:00",
+"size":
+237685085456
+},
+"girder":
+{
+"id":
+"6076a24d02cb75004f0b2f15"
+},
+"metadata":
+{
+"experiment_description":
+"3 choice memory task",
+"genotype":
+"wild type",
+"identifier":
+"60efe274-97d8-11eb-b066-f8f21e73f0f8",
+"institution":
+"university of california, san francisco",
+"lab":
+"loren frank",
+"md5":
+"95cae140b2ee11c817ebcea4436b538d",
+"nwb_version":
+"2.2.5",
+"session_description":
+"3 choice memory task",
+"session_id":
+"kib20170203",
+"session_start_time":
+"1970-01-01T00:00:00+00:00",
+"sex":
+"male",
+"sha1":
+"d6a2c82e9d5b45d645f553efc175ac57a229b1c5",
+"sha256":
+"bbeeebe517d7a637609e3ff80e85169a26351412cc01270958095e61456cb8c7",
+"sha512":
+"dd022bcbdb1d16901b7f5a66253dcf743a9d1d99677603a9b5b7d2df9a1087eeb45ee34eff07fd53962f87a428a227c2831b2fefd4dc5d2d166938542e9b70af",
+"species":
+"rat",
+"subject_id":
+"kibbles",
+"uploaded_by":
+"dandi 0.13.2",
+"uploaded_datetime":
+"2021-04-14T04:03:12.448555-04:00",
+"uploaded_mtime":
+"2021-04-13T23:27:53.288728-04:00",
+"uploaded_nwb_object_id":
+"71ba9641-d364-430d-be4a-4d28a85a63db",
+"uploaded_size":
+237685085456
+},
+"modified":
+"2021-04-13 23:27:53.288728-04:00",
+"name":
+"sub-Kibbles_behavior+ecephys.nwb",
+"path":
+"/sub-Kibbles/sub-Kibbles_behavior+ecephys.nwb",
+"sha256":
+"bbeeebe517d7a637609e3ff80e85169a26351412cc01270958095e61456cb8c7",
+"size":
+237685085456,
+"type":
+"file"
+}
+]
