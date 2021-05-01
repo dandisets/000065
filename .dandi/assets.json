@@ -20,7 +20,7 @@
 "contentUrl":
 [
 "https://api.dandiarchive.org/api/dandisets/000065/versions/draft/assets/aba00436-8a15-4e02-8ed2-52c256b98080/download/",
-"https://dandiarchive.s3.amazonaws.com/blobs/da5/107/da510761-653e-4b81-a330-9cdae4838180?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUBRWC5GAEKH3223E%2F20210426%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210426T212906Z&X-Amz-Expires=21600&X-Amz-SignedHeaders=host&X-Amz-Signature=d36157f31f03b7981d250fd9bc7053bc2cd583f4beaccc29654e6157cedfe866"
+"https://dandiarchive.s3.amazonaws.com/blobs/da5/107/da510761-653e-4b81-a330-9cdae4838180"
 ],
 "dateModified":
 "2021-04-21T13:46:17.276513-04:00",
