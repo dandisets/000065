@@ -7,19 +7,35 @@ access:
     email: loren@phy.ucsf.edu
     schemaKey: ContactPoint
   status: dandi:Open
+acknowledgement: 'Chung, J. E., Joo, H. R., Fan, J. L., Liu, D. F., Barnett, A. H.,
+  Chen, S., Geaghan-Breiner, C., Karlsson, M. P., Karlsson, M., Lee, K. Y., Liang,
+  H., Magland, J. F., Pebbles, J. A., Tooker, A. C., Greengard, L. F., Tolosa, V.
+  M. and Frank, L. M.  (2019). "High-Density, Long-Lasting, and Multi-region Electrophysiological
+  Recordings Using Polymer Electrode Arrays." Neuron 101(1): 21-31.e25.'
 contributor: []
-description: Recordings using 64 channel polymer probes across 4 regions in an animal
-  resting in a box. Note that the position data is duplicated, one copy for each epoch.
+description: Recordings made by Jason Chung in the Frank laboratory at UCSF using
+  64 channel polymer probes across 4 regions in an animal resting in a box. Note that
+  the position data is duplicated, one copy for each epoch.
 ethicsApproval: []
 id: DANDI:000065/draft
 identifier: DANDI:000065
-keywords: []
-license: []
+keywords:
+- 'rat, '
+- polymer probe
+- electrophysiology
+- nucleus accumbens
+- medial prefrontal cortex
+- orbitofrontal cortex
+- hippocampus
+- sleep
+license:
+- spdx:CC-BY-NC-4.0
 manifestLocation: []
 name: Polymer probe recordings from hippocampus (LFP), OFC, NAc, and mPFC
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org/
 schemaVersion: 0.3.0
-studyTarget: []
+studyTarget:
+- Technology development (polymer probes) and multiregion recordings in rat.
 wasGeneratedBy: []
