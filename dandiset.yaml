@@ -29,7 +29,7 @@ keywords:
 - hippocampus
 - sleep
 license:
-- spdx:CC-BY-NC-4.0
+- spdx:CC-BY-4.0
 manifestLocation: []
 name: Polymer probe recordings from hippocampus (LFP), OFC, NAc, and mPFC
 protocol: []
