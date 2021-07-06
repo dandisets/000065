@@ -14,8 +14,14 @@ acknowledgement: 'Chung, J. E., Joo, H. R., Fan, J. L., Liu, D. F., Barnett, A. 
   M. and Frank, L. M.  (2019). "High-Density, Long-Lasting, and Multi-region Electrophysiological
   Recordings Using Polymer Electrode Arrays." Neuron 101(1): 21-31.e25.'
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard: []
+  measurementTechnique: []
+  numberOfBytes: 237685085456
+  numberOfFiles: 1
+  schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: Polymer probe recordings from hippocampus (LFP), OFC, NAc, and mPFC (2021).
   (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000065/draft
 contributor: []
