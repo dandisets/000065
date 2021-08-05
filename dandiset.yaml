@@ -42,7 +42,8 @@ keywords:
 - sleep
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000065/versions/draft/assets/
 name: Polymer probe recordings from hippocampus (LFP), OFC, NAc, and mPFC
 protocol: []
 relatedResource: []
