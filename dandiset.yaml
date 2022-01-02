@@ -9,23 +9,124 @@ access:
     schemaKey: ContactPoint
   schemaKey: AccessRequirements
   status: dandi:OpenAccess
-acknowledgement: 'Chung, J. E., Joo, H. R., Fan, J. L., Liu, D. F., Barnett, A. H.,
-  Chen, S., Geaghan-Breiner, C., Karlsson, M. P., Karlsson, M., Lee, K. Y., Liang,
-  H., Magland, J. F., Pebbles, J. A., Tooker, A. C., Greengard, L. F., Tolosa, V.
-  M. and Frank, L. M.  (2019). "High-Density, Long-Lasting, and Multi-region Electrophysiological
-  Recordings Using Polymer Electrode Arrays." Neuron 101(1): 21-31.e25.'
 assetsSummary:
   approach: []
   dataStandard: []
   measurementTechnique: []
   numberOfBytes: 237685085456
   numberOfFiles: 1
+  numberOfSubjects: 1
   schemaKey: AssetsSummary
   species: []
   variableMeasured: []
-citation: Polymer probe recordings from hippocampus (LFP), OFC, NAc, and mPFC (2021).
-  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000065/draft
-contributor: []
+citation: Chung, J. E.; Joo, H. R.; Fan, J. L.; Liu, D. F.; Barnett, A. H.; Chen,
+  S.; Geaghan-Breiner, C.; Karlsson, M. P.; Karlsson, M.; Lee, K. Y.; Liang, H.; Magland,
+  J. F.; Pebbles, J. A.; Tooker, A. C.; Greengard, L. F.; Tolosa, V. M.; Frank, L.
+  M. (2022) Polymer probe recordings from hippocampus (LFP), OFC, NAc, and mPFC (Version
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000065/draft
+contributor:
+- affiliation: []
+  includeInCitation: true
+  name: Chung, J. E.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Joo, H. R.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Fan, J. L.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Liu, D. F.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Barnett, A. H.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Chen, S.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Geaghan-Breiner, C.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Karlsson, M. P.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Karlsson, M.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Lee, K. Y.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Liang, H.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Magland, J. F.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Pebbles, J. A.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Tooker, A. C.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Greengard, L. F.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Tolosa, V. M.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation: []
+  includeInCitation: true
+  name: Frank, L. M.
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
 dateCreated: '2021-04-07T23:31:12.831000+00:00'
 description: Recordings made by Jason Chung in the Frank laboratory at UCSF using
   64 channel polymer probes across 4 regions in an animal resting in a box. Note that
@@ -48,7 +149,13 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000065/versions/draft/assets/
 name: Polymer probe recordings from hippocampus (LFP), OFC, NAc, and mPFC
 protocol: []
-relatedResource: []
+relatedResource:
+- identifier: 'DOI: 10.1016/j.neuron.2018.11.002'
+  name: High-Density, Long-Lasting, and Multi-region Electrophysiological Recordings
+    Using Polymer Electrode Arrays
+  relation: dcite:IsDescribedBy
+  schemaKey: Resource
+  url: https://pubmed.ncbi.nlm.nih.gov/30502044/
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
