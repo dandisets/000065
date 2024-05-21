@@ -5,7 +5,7 @@
 "blob":
 "da510761-653e-4b81-a330-9cdae4838180",
 "created":
-"2021-07-03T04:23:15.189790+00:00",
+"2021-07-03T04:23:15.189790Z",
 "metadata":
 {
 "@context":
@@ -81,7 +81,7 @@
 ]
 },
 "modified":
-"2021-08-05T18:52:48.628247+00:00",
+"2021-08-05T18:52:48.628247Z",
 "path":
 "sub-Kibbles/sub-Kibbles_behavior+ecephys.nwb",
 "size":
